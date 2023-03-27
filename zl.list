@@ -1,3 +1,4 @@
+#download
 DOMAIN-KEYWORD,aria2c
 DOMAIN-KEYWORD,BitComet
 DOMAIN-KEYWORD,fdm
@@ -5,16 +6,12 @@ DOMAIN-KEYWORD,Thunder
 DOMAIN-KEYWORD,transmission-daemon
 DOMAIN-KEYWORD,transmission-qt
 DOMAIN-KEYWORD,uTorrent
-DOMAIN-KEYWORD,WebTorrent
-DOMAIN-KEYWORD,aria2c
 DOMAIN-KEYWORD,fdm
 DOMAIN-KEYWORD,Folx
 DOMAIN-KEYWORD,NetTransport
 DOMAIN-KEYWORD,qbittorrent
-DOMAIN-KEYWORD,Transmission
 DOMAIN-KEYWORD,transmission
 DOMAIN-KEYWORD,WebTorrent
-DOMAIN-KEYWORD,WebTorrent Helper
 DOMAIN-KEYWORD,v2ray
 DOMAIN-KEYWORD,ss-local
 DOMAIN-KEYWORD,ssr-local
@@ -27,21 +24,20 @@ DOMAIN-KEYWORD,hysteria
 DOMAIN-KEYWORD,UUBooster
 DOMAIN-KEYWORD,uugamebooster
 
-
+#bgy
 DOMAIN-KEYWORD,byget
 DOMAIN-KEYWORD,byfree
 
-
-DOMAIN-KEYWORD,zhihu
+#zh
 DOMAIN-KEYWORD,zhihu
 DOMAIN,www.zhihu.com
 
-
+#klw
 DOMAIN-SUFFIX,kelongwo.com
 DOMAIN-KEYWORD,kelongwo
 
-
+#wq
 DOMAIN-KEYWORD,qq
-DOMAIN-KEYWORD,weixing
+DOMAIN-KEYWORD,weixin
 DOMAIN,api.weixin.qq.com
 DOMAIN,api2.weixin.qq.com
